@@ -1,4 +1,4 @@
-# ml-book-recommendation-system
+# Kindle-book-recommendation-system-ml
 
 The objective of this project is to develop a book recommendation system that leverages two key approaches: Collaborative Filtering and Popularity-Based Recommendation. These techniques provide personalized and contextually relevant book suggestions based on user preferences, past behavior, and the overall popularity of books. By combining these two methods, the system aims to provide more diverse and accurate book recommendations to users.
 

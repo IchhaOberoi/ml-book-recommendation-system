@@ -6,6 +6,10 @@ The objective of this project is to develop a book recommendation system that le
 
 The project uses a dataset that includes information about books, user ratings, and book attributes such as Book-Title, Book-Author, Book-Rating, and Image-URL-M. Each user has rated books on a scale from 1 to 5, and these ratings reflect their satisfaction with the books. The data is cleaned and processed to ensure consistency and reliability. The key data points used for recommendations are the Book-Title and Book-Rating columns, which form the basis of our recommendation system.
 
+# Link to Dataset:
+
+https://drive.google.com/drive/folders/1gwJXKGvD7ph4SJ4WbLq3yZmSCVjK71Ex
+
 # Collaborative Filtering Approach:
 
 Collaborative filtering is a popular recommendation technique that relies on the idea that users who have agreed on one topic will also agree on other topics. In this project, we focus on user-item collaborative filtering, where the system recommends books based on the preferences of similar users.
